@@ -1,4 +1,4 @@
-✨ Maria Eduarda - Apaixonada por Segurança da Informação e Tecnologia ✨
+✨ Olá! Sou Maria Eduarda, mas pode me chamar de Duda. Estou trilhando meu caminho na área de Segurança da Informação com foco em proteger dados, implementar boas práticas e criar ambientes digitais mais seguros. Minha experiência inclui suporte técnico em TI e estudos sobre normas de segurança e frameworks de governança. Atualmente, busco oportunidades para aplicar minhas habilidades e aprender ainda mais com desafios reais no mundo da cibersegurança. ✨
 
 🎓 Estudante de Tecnologia da Informação | 🚀 Focada em Segurança da Informação e GRC
 🌐 Explorando temas como ISO 27001, COBIT 5, e SIEMs
