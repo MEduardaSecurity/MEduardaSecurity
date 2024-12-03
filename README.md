@@ -12,7 +12,5 @@
     Normas e Frameworks: ISO 27001, COBIT 5
     Ferramentas: Splunk, Google Workspace
 
-📌 Contato
-
 📧 Email: m.eduardasa03@gmail.com
 💼 LinkedIn: www.linkedin.com/in/mariaeduardati
