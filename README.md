@@ -27,4 +27,4 @@ Minha trajetória inclui **experiência em suporte técnico de TI** e estudos ap
 
 💡 **Vamos construir juntos ambientes digitais mais seguros?**  
 📫 Entre em contato comigo e vamos conversar sobre oportunidades ou parcerias!  
-✨ **[LinkedIn](https://www.linkedin.com/in/mariaeduardati.com)** | **E-mail](m.eduardasa03@gmail.com)** ✨
+✨ **[LinkedIn](https://www.linkedin.com/in/mariaeduardati)** | **E-mail](m.eduardasa03@gmail.com)** ✨
