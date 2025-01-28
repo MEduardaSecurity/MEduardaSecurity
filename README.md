@@ -4,13 +4,13 @@
 
 🛠️ Habilidades Técnicas
 
-Segurança de Redes
-Análise de Vulnerabilidades 
-Gerenciamento de Riscos e Conformidade 
-Ferramentas de Segurança 
-Linux, SQL e Python
-Criptografia 
-Segurança de Dispositivos
+Segurança de Redes;
+Análise de Vulnerabilidades; 
+Gerenciamento de Riscos e Conformidade; 
+Ferramentas de Segurança;
+Linux, SQL e Python;
+Criptografia;
+Segurança de Dispositivos;
 
 📧 Email: m.eduardasa03@gmail.com
 💼 LinkedIn: www.linkedin.com/in/mariaeduardati
