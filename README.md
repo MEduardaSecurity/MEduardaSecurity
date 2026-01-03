@@ -41,9 +41,11 @@
 
 <div>
 
-<div align="center">
-  MORE INFO
-</div>
+<details>
+<summary align="center"><strong>MORE INFO</strong></summary>
+
+<br>
+
 <details>
 <summary>🛡️ Network Security</summary>
   
@@ -95,4 +97,5 @@
 
 </details>
 
-</div>
+</details>
+
