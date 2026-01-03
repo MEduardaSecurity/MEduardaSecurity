@@ -1,30 +1,24 @@
-# ✨ Olá! Seja bem-vindo(a) ao meu perfil! ✨  
+<div align="center">
 
-Eu sou **Maria Eduarda**, mas pode me chamar de **Duda**! 💜  
-Estou trilhando meu caminho na área de **Segurança da Informação**, com foco em proteger dados, implementar boas práticas e criar ambientes digitais mais seguros.  
+<img src="https://i.imgur.com/SEU-BANNER-AQUI.png" width="100%" />
 
-Minha trajetória inclui **experiência em suporte técnico de TI** e estudos aprofundados sobre **normas de segurança** e **frameworks de governança**. Atualmente, busco **oportunidades** para aplicar minhas habilidades e enfrentar **desafios reais** no mundo da cibersegurança.  
+<br><br>
 
----
+### D U D A  
 
-## 🛡️ Sobre Mim  
-🎓 **Estudante de Segurança da Informação**  
-🔐 Foco em cibersegurança, análise de riscos e governança  
-🚀 Buscando inovar e aprender continuamente  
+Cybersecurity · GRC · Risk  
 
----
+<br>
 
-## 🛠️ Minhas Habilidades Técnicas  
-- **Segurança de Redes**  
-- **Análise de Vulnerabilidades**  
-- **Gerenciamento de Riscos e Conformidade**  
-- **Ferramentas de Segurança**  
-- **Linux, SQL e Python**  
-- **Criptografia**  
-- **Segurança de Dispositivos**  
+<img src="https://skillicons.dev/icons?i=linux,python,git" />
 
----
+<br><br>
 
-💡 **Vamos construir juntos ambientes digitais mais seguros?**  
-📫 Entre em contato comigo e vamos conversar sobre oportunidades ou parcerias!  
-✨ **[LinkedIn](https://www.linkedin.com/in/mariaeduardati)** | **E-mail: m.eduardasa03@gmail.com** ✨
+<a href="SEU-LINKEDIN-AQUI">
+  <img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:m.eduardasa03@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
