@@ -6,11 +6,11 @@
 
 ### D U D A  
 
-Cybersecurity · GRC · Risk  
+Cybersecurity · Blue Team  · IAM
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=linux,python,git" />
+<img src="https://skillicons.dev/icons?i=linux,python,git,microsft,Active Directory" />
 
 <br><br>
 
