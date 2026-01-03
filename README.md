@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/1c/aw/kH/1cawkHA7M.gif" width="100%" />
+<!(https://pin.it/1cawkHA7M)>
 
 <br><br>
 
