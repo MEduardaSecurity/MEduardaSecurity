@@ -33,15 +33,14 @@
 &nbsp;
 <a href="mailto:m.eduardasa03@gmail.com">
   <img src="https://img.shields.io/badge/Email-111111?style=flat&logo=gmail&logoColor=white"/>
-</a>
-
+</a>  
 
 <h1 align="center">
-  more info
+  MORE INFO
 </h1>
-
+<details>
 <summary>🛡️ Network Security</summary>
-
+  
 - Noções práticas de firewalls, VPNs e segmentação de rede  
 - Análise básica de tráfego para identificar comportamentos suspeitos  
 
