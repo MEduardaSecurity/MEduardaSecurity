@@ -34,6 +34,9 @@
 <a href="mailto:m.eduardasa03@gmail.com">
   <img src="https://img.shields.io/badge/Email-111111?style=flat&logo=gmail&logoColor=white"/>
 </a>  
+</div>
+
+<div>
 
 <h1 align="center">
   MORE INFO
