@@ -32,7 +32,7 @@
 </div>
 
 ---
-<Cliqueaqui>
+<details>Clique aqui
   
 <details>
 <summary>🛡️ Network Security</summary>
