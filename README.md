@@ -42,7 +42,7 @@
 <div>
 
 <details>
-<summary align="center"><strong>MORE INFO</strong></summary>
+<summary align="center"><strong>ABOUT ME</strong></summary>
 
 <br>
 
@@ -65,7 +65,7 @@
 <details>
 <summary>📊 Risk & Compliance</summary>
 
-- Contato com **ISO 27001, NIST e LGPD**  
+- Contato com <strong>ISO 27001, NIST e LGPD</strong>  
 - Apoio em avaliações de risco e documentação de controles  
 
 </details>
