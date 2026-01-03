@@ -11,7 +11,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=AAAAAA&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub" />
 
-<br><br>
+<br>
 
 <img src="https://skillicons.dev/icons?i=python,linux,azure" />
 
@@ -32,6 +32,9 @@
 <a href="mailto:m.eduardasa03@gmail.com">
   <img src="https://img.shields.io/badge/Email-111111?style=flat&logo=gmail&logoColor=white"/>
 </a>  
+
+<br>
+
 </div>
 
 <br>
