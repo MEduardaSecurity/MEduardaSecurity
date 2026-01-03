@@ -1,16 +1,15 @@
 <div align="center">
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDA5cGJqaW8zeTR0cnExbGsyNmYzMnZnNGd4aXJ4bmZ6ZW1iMDJwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TrVla4Z2PYEkU/giphy.gif" width="1000"/>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDA5cGJqaW8zeTR0cnExbGsyNmYzMnZnNGd4aXJ4bmZ6ZW1iMDJwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TrVla4Z2PYEkU/giphy.gif" width="120"/>
 
 <br><br>
 
-### D U D A
-
-Cybersecurity · GRC · Risk
+### Olá, eu sou a Duda  
+#### Cybersecurity Intern
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=python,linux,microsoft" />
+<img src="https://skillicons.dev/icons?i=python,linux,azure" />
 
 <br><br>
 
@@ -24,32 +23,65 @@ Cybersecurity · GRC · Risk
 
 </div>
 
+<br>
+
+<div align="center">
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW16NzJvMHpqdWh3Nmc1ZWF1MmFybXZpdmNjd2Y4dHd2bGF2OHVibSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WqRlluhysRCF5HB8us/giphy.gif" width="300"/>
+
+</div>
+
 ---
 
-### 🛡️ Network Security
-- Firewalls, VPNs and network segmentation  
-- Network traffic analysis to identify threats and vulnerabilities  
+<details>
+<summary>🛡️ Network Security</summary>
 
-### 🔍 Vulnerability Analysis
-- Identification of system weaknesses using vulnerability scanners  
-- Patch management and security updates  
-- Prevention and remediation strategies  
+- Noções práticas de firewalls, VPNs e segmentação de rede  
+- Análise básica de tráfego para identificar comportamentos suspeitos  
 
-### 📊 Risk Management & Compliance
-- Basic knowledge of **ISO 27001, NIST and LGPD**  
-- Risk assessment and prioritization  
-- Documentation and implementation of security controls  
+</details>
 
-### 🧰 Security Tools
-- Wireshark · Nessus · Burp Suite · IDS/IPS  
+<details>
+<summary>🔍 Vulnerability Analysis</summary>
 
-### 🐧 Linux · SQL · Python
-- Linux environment navigation for security analysis  
-- SQL queries to investigate anomalies  
-- Python for automation and security analysis  
+- Identificação de vulnerabilidades com scanners  
+- Apoio em correções, patches e melhorias de segurança  
 
-### 🔐 Cryptography
-- Data protection in transit and at rest  
-- Digital certificates and secure protocols (HTTPS, SSL/TLS)
+</details>
+
+<details>
+<summary>📊 Risk & Compliance</summary>
+
+- Contato com **ISO 27001, NIST e LGPD**  
+- Apoio em avaliações de risco e documentação de controles  
+
+</details>
+
+<details>
+<summary>🧰 Security Tools</summary>
+
+- Wireshark  
+- Nessus  
+- Burp Suite  
+- IDS / IPS  
+
+</details>
+
+<details>
+<summary>🐧 Linux · SQL · Python</summary>
+
+- Uso de Linux para análises e tarefas de segurança  
+- Consultas SQL simples para investigação de dados  
+- Python para automações e apoio em análises  
+
+</details>
+
+<details>
+<summary>🔐 Cryptography</summary>
+
+- Conceitos de proteção de dados em trânsito e em repouso  
+- Contato com certificados digitais e protocolos seguros (HTTPS / TLS)  
+
+</details>
 
 
