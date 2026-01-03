@@ -10,7 +10,7 @@ Cybersecurity · Blue Team  · IAM
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=linux,python,git,microsft,Active Directory" />
+<img src="https://skillicons.dev/icons?i=linux,python,git" />
 
 <br><br>
 
