@@ -32,7 +32,8 @@
 </div>
 
 ---
-
+<details>
+  
 <details>
 <summary>🛡️ Network Security</summary>
 
