@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/original/17/YB/tT/17YBtTMaV.gif" width="100%" />
+<img src="https://i.pinimg.com/originals/1c/aw/kH/1cawkHA7M.gif" width="100%" />
 
 <br><br>
 
 ### D U D A  
 
-Cybersecurity · Blue Team  · IAM
+Cybersecurity · GRC · Risk  
 
 <br>
 
@@ -15,11 +15,12 @@ Cybersecurity · Blue Team  · IAM
 <br><br>
 
 <a href="https://www.linkedin.com/in/mariaeduardati" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=pink"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:m.eduardasa03@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=pink"/>
+  <img src="https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
+
 
