@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="[https://i.imgur.com/SEU-BANNER-AQUI.png" width="100%](https://pin.it/17YBtTMaV)" />
+<img src="https://i.pinimg.com/original/17/YB/tT/17YBtTMaV.gif" width="100%" />
 
 <br><br>
 
@@ -14,7 +14,7 @@ Cybersecurity · GRC · Risk
 
 <br><br>
 
-<a href="www.linkedin.com/in/mariaeduardati">
+<a href="https://www.linkedin.com/in/mariaeduardati" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:m.eduardasa03@gmail.com">
@@ -22,3 +22,4 @@ Cybersecurity · GRC · Risk
 </a>
 
 </div>
+
