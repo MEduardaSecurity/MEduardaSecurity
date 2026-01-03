@@ -38,6 +38,7 @@
 </div>
 
 ---
+</div>
 <details>
   
 <details>
@@ -90,3 +91,5 @@
 - Contato com certificados digitais e protocolos seguros (HTTPS / TLS)  
 
 </details>
+
+</div>
