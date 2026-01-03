@@ -38,9 +38,9 @@
 
 <div>
 
-<h1 align="center">
+<div align="center">
   MORE INFO
-</h1>
+</div>
 <details>
 <summary>🛡️ Network Security</summary>
   
