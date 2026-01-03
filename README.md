@@ -9,6 +9,12 @@
 
 <br>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=AAAAAA&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub" />
+
+<br><br>
+
+<br>
+
 <img src="https://skillicons.dev/icons?i=python,linux,azure" />
 
 <br><br>
@@ -32,7 +38,7 @@
 </div>
 
 ---
-<details>Clique aqui
+<details>
   
 <details>
 <summary>🛡️ Network Security</summary>
