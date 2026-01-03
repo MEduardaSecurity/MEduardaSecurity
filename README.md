@@ -15,7 +15,7 @@
 
 <img src="https://skillicons.dev/icons?i=python,linux,azure" />
 
-<br>
+<br><br>
 
 <a href="https://www.linkedin.com/in/mariaeduardati">
   <img src="https://img.shields.io/badge/LinkedIn-111111?style=flat&logo=linkedin&logoColor=white"/>
