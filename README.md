@@ -39,10 +39,10 @@
 
 <br>
 
-<div>
+<div align="center">
 
 <details>
-<summary align="center"><strong>ABOUT ME</strong></summary>
+<summary><strong>ABOUT ME</strong></summary>
 
 <br>
 
@@ -99,3 +99,4 @@
 
 </details>
 
+</div>
