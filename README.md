@@ -17,6 +17,14 @@
   <img src="https://img.shields.io/badge/LinkedIn-111111?style=flat&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
+<a href="https://www.tiktok.com/@dudacyberlab?_r=1&_t=ZS-92m7raocIZV">
+  <img src="https://img.shields.io/badge/TikTok-111111?style=flat&logo=tiktok&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.instagram.com/dudacyberlab?igsh=MTFqampxM3pnZHhseg==">
+  <img src="https://img.shields.io/badge/Instagram-111111?style=flat&logo=instagram&logoColor=white"/>
+</a>
+&nbsp;
 <a href="mailto:m.eduardasa03@gmail.com">
   <img src="https://img.shields.io/badge/Email-111111?style=flat&logo=gmail&logoColor=white"/>
 </a>
