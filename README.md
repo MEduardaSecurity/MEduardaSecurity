@@ -40,9 +40,10 @@
 ---
 </div>
 
-<details>
-  
-<details>
+<h1 align="center">
+  more info
+</h1>
+
 <summary>🛡️ Network Security</summary>
 
 - Noções práticas de firewalls, VPNs e segmentação de rede  
