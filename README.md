@@ -3,7 +3,7 @@
 ### Olá, eu sou a Duda  
 #### Cybersecurity Intern
 
-<br><br>
+<br>
 
 <img src="https://media.tenor.com/HHyhcUbFFjIAAAAj/cherry-blossom.gif" width="300"/>
 
@@ -39,7 +39,7 @@
 
 <br>
 
-<h1 align="center">
+<div align="center">
 
 <details>
 <summary><strong>ABOUT ME</strong></summary>
@@ -99,4 +99,4 @@
 
 </details>
 
-</h1>
+</div>
