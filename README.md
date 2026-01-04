@@ -3,8 +3,9 @@
 <!-- Cabeçalho rosa (inspirado na sakura) -->
 <hr style="border: none; height: 2px; width: 60%; background-color: pink ; margin-bottom: 20px;" />
 
-### Olá, eu sou a Duda  
-#### Cybersecurity Intern
+### Olá, eu sou a **Duda**
+<sub>Cybersecurity Intern</sub>
+
 
 <br>
 
