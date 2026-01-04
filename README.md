@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.tenor.com/HHyhcUbFFjIAAAAj/cherry-blossom.gif" width="1000"/>
+<img src="https://media.tenor.com/HHyhcUbFFjIAAAAj/cherry-blossom.gif" width="500"/>
 
 <br><br>
 
