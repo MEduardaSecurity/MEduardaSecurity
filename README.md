@@ -1,5 +1,8 @@
 <div align="center">
 
+<!-- Cabeçalho rosa (inspirado na sakura) -->
+<hr style="border: none; height: 2px; width: 60%; background-color: #f4a6b8; margin-bottom: 20px;" />
+
 ### Olá, eu sou a Duda  
 #### Cybersecurity Intern
 
@@ -15,7 +18,10 @@
 
 <img src="https://skillicons.dev/icons?i=python,linux,azure" />
 
-<br><br>
+<!-- Linha fina abaixo das ferramentas -->
+<hr style="border: none; height: 1px; width: 40%; background-color: #2a2a2a; margin-top: 18px;" />
+
+<br>
 
 <a href="https://www.linkedin.com/in/mariaeduardati">
   <img src="https://img.shields.io/badge/LinkedIn-111111?style=flat&logo=linkedin&logoColor=white"/>
@@ -31,15 +37,16 @@
 &nbsp;
 <a href="mailto:m.eduardasa03@gmail.com">
   <img src="https://img.shields.io/badge/Email-111111?style=flat&logo=gmail&logoColor=white"/>
-</a>  
-
-<br>
+</a>
 
 </div>
 
-<br>
+<br><br>
 
 <div align="center">
+
+<!-- Caixinha do ABOUT ME -->
+<div style="border: 1px solid #2a2a2a; border-radius: 10px; padding: 14px; width: 85%;">
 
 <details>
 <summary><strong>ABOUT ME</strong></summary>
@@ -98,5 +105,7 @@
 </details>
 
 </details>
+
+</div>
 
 </div>
