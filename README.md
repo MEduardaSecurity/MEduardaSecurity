@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://media.tenor.com/HHyhcUbFFjIAAAAj/cherry-blossom.gif" width="300"/>
+### Olá, eu sou a Duda  
+#### Cybersecurity Intern
 
 <br><br>
 
-### Olá, eu sou a Duda  
-#### Cybersecurity Intern
+<img src="https://media.tenor.com/HHyhcUbFFjIAAAAj/cherry-blossom.gif" width="300"/>
 
 <br>
 
