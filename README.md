@@ -9,7 +9,7 @@
 
 <br>
 
-<img src="https://media.tenor.com/IYdap55unFgAAAAi/nod-cat-nod.gif" width="300"/>
+<img src="https://media.tenor.com/XCfSm9fiBNsAAAAm/hi-cat.webp" width="300"/>
 
 <br>
 
