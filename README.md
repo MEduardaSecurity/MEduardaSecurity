@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Cabeçalho rosa (inspirado na sakura) -->
-<hr style="border: none; height: 2px; width: 60%; background-color: #f4a6b8; margin-bottom: 20px;" />
+<hr style="border: none; height: 2px; width: 60%; background-color: pink ; margin-bottom: 20px;" />
 
 ### Olá, eu sou a Duda  
 #### Cybersecurity Intern
